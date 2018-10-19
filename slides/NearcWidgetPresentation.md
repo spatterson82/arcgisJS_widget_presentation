@@ -67,31 +67,31 @@ That is Inspector Gadget
 
 ## Basemap Gallery
 <!-- .slide: data-background="#ad8174" -->
-<img src="Images/Basemap_Gallery.GIF">
+<img src="images/Basemap_Gallery.GIF">
 
 --
 
 ## Loading Icon
 <!-- .slide: data-background="#ad8174" -->
-<img style="height:300px;width:600px;" src="Images/Loading_Icon.GIF">
+<img style="height:300px;width:600px;" src="images/Loading_Icon.GIF">
 
 --
 
 ## Measure Tool
 <!-- .slide: data-background="#ad8174" -->
-<img src="Images/Measure_Tool.GIF">
+<img src="images/Measure_Tool.GIF">
 
 --
 
 ## Annotation Tool
 <!-- .slide: data-background="#ad8174" -->
-<img src="Images/Annotation_Tool.GIF">
+<img src="images/Annotation_Tool.GIF">
 
 --
 
 ## Pointer Location
 <!-- .slide: data-background="#ad8174" -->
-<img src="Images/Pointer_Location.GIF">
+<img src="images/Pointer_Location.GIF">
 
 ---
 
