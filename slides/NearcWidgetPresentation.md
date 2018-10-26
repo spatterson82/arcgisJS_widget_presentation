@@ -17,10 +17,6 @@ Fall NEARC Presentation 2018
 
 ---
 
-<!-- .slide: data-background-iframe="https://www.terracon.com/services/" -->
-
----
-
 <!-- .slide: data-background-iframe="https://www.terracon.com/locations/" -->
 
 ---
