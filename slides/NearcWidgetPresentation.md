@@ -89,7 +89,7 @@ That is Inspector Gadget
 <!-- .slide: data-background="#ad8174" -->
 <img src="images/Pointer_Location.GIF">
 
----
+--
 
 ## Bookmarks
 <!-- .slide: data-background="#ad8174" -->
