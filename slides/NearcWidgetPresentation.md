@@ -91,6 +91,12 @@ That is Inspector Gadget
 
 ---
 
+## Bookmarks
+<!-- .slide: data-background="#ad8174" -->
+<img src="images/Bookmarks.GIF">
+
+---
+
 #### Widgets are written with Typescript
 <!-- .slide: data-background="#699876" -->
 <ul>
