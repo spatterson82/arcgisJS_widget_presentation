@@ -7,7 +7,7 @@ ArcGIS Javascript API 4.0+
 ---
 
 <!-- .slide: data-background="#ad8174" -->
-<img src="https://arcgisportal-dev.terracon.com/portal/sharing/rest/content/items/18dd677827314bd4ad7b0cea91c33abc/data" style="background:none; border:none; box-shadow:none;">
+<img src="images/Terracon_Red.png" style="background:none; border:none; box-shadow:none;">
 
 Fall NEARC Presentation 2018
 
@@ -17,7 +17,14 @@ Fall NEARC Presentation 2018
 
 ---
 
-<!-- .slide: data-background-iframe="https://www.terracon.com/locations/" -->
+<!-- .slide: data-background="#ad8174" -->
+<p style="font-size:55px;text-align:left;">Terracon Overview</p>
+<p style="font-size:40px;text-align:left;">&emsp; &#9642; Geotechnical</p>
+<p style="font-size:40px;text-align:left;">&emsp; &#9642; Environmental</p>
+<p style="font-size:40px;text-align:left;">&emsp; &#9642; Materials</p>
+<p style="font-size:40px;text-align:left;">&emsp; &#9642; Facilities</p>
+<p style="font-size:40px;text-align:left;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&#9642;Over 140 Offices</p>
+<img style="float:right;position:absolute;top:100px;" height="300" width="500" src="images/Locations.PNG" >
 
 ---
 
@@ -39,7 +46,7 @@ That is Inspector Gadget
 
 ---
 
-<p style="font-size:55px;">ESRI says widgets are...</p>
+<p style="font-size:55px;">Esri says widgets are...</p>
 <p style="font-size:35px;">Reusable user-interface components and are key to providing a rich user experience. The ArcGIS for JavaScript API provides a set of ready-to-use widgets. Beginning with version 4.2, it also provides a foundation for you to create custom widgets.
 </p>
 <p style="font-size:15px;">*ESRI (2018, October 10). Widget development. Retrieved from https://developers.arcgis.com/javascript/latest/guide/custom-widget/index.html*<p>
@@ -282,3 +289,4 @@ Questions?
 <br>
 <p style="font-size:28px;">Contact me</p>
 <p style="font-size:28px;font-style: italic;">Stephen.Patterson@terracon.com</p>
+<p style="font-size:28px;font-style: italic;">https://spatterson82.github.io/widget_presentation/</p>
